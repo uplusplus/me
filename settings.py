@@ -90,10 +90,10 @@ if RUNTIME_ENV in ("bae", "local"):
     app.config['MIGRATE_CFG'] = MIGRATE_CFG
 
 
-app.config["SiteTitle"] = "ME@deepgully"
+app.config["SiteTitle"] = "boolog"
 app.config["SiteSubTitle"] = ""
-app.config["OwnerEmail"] = "deepgully@gmail.com"
-app.config["DefaultPassword"] = "admin"
+app.config["OwnerEmail"] = "yjcpu@gmail.com"
+app.config["DefaultPassword"] = "000000"
 
 
 ######################################
